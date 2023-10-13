@@ -30,7 +30,7 @@ const weatherAPI = {
 
 function App() {
   return (
-    <div className="app warm">
+    <div className="app sunny">
       <main>
         <div className="search-box">
           <input
