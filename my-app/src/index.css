@@ -52,9 +52,10 @@ main {
 
   color: #313131;
   font-size: 20px;
-  transition: 0.3s ease;
+
+  transition: 0.4s ease;
 }
 
-.searchbox :focus {
+.search-box .search-bar:focus {
   background-color: rgba(255,255,255,0.75);
 }
